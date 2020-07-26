@@ -1,0 +1,20 @@
+{
+    "firstname": "monika",
+    "address": {
+      "city": "aligarh",
+      "house no.": "8/6",
+      "sector": "17"
+    },
+    "phone": [
+      {
+        "phone no.": "9899777287"
+      },
+      {
+        "phone no.": "7011041876"
+      }
+    ],
+    "designation": "senior test engineer",
+    "id": "1355236209",
+    "age": "28",
+    "lastmane": "sharma"
+  }
